@@ -1,4 +1,4 @@
-# File action 
+# File action in qt app 
 
 Paragraph.
 
