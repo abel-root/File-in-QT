@@ -8,16 +8,17 @@ Paragraph.
  
  + QFileDialog 
  
- + -  :: getOpenFileName
+    -  :: getOpenFileName
 
 ## Write in the file
 Use the class :
 + QFile
 + QFileDialog 
-+ - :: getOpenFileName
+    - :: getOpenFileName
 
 ## Print file 
 
 Use the class : 
+
 + QPrinter 
 + QPrintDialog 
