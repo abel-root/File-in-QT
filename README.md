@@ -16,6 +16,18 @@ Use the class :
 + QFileDialog 
     - :: getOpenFileName
 
+## Save As file 
+Use the class :
++ QFile
++ QFileDialog 
+    - :: getSaveFileName
+
+## Save current file 
+Use the class :
++ QFile
++ QFileDialog 
+    - :: getOpenFileName
+
 ## Print file 
 
 Use the class : 
